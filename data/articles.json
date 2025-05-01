@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction à Next.js",
+    "description": "Découvrez les bases de Next.js et pourquoi il est si populaire",
+    "image": "/placeholder.svg?height=400&width=600",
+    "content": "<p>Next.js est un framework React qui permet de créer des applications web modernes avec un rendu côté serveur (SSR), une génération de sites statiques (SSG), et bien plus encore.</p><p>Créé par Vercel, Next.js simplifie le développement d'applications React en offrant:</p><ul><li>Un système de routage basé sur les fichiers</li><li>Le rendu côté serveur par défaut</li><li>La division automatique du code</li><li>L'optimisation des images</li><li>Et bien d'autres fonctionnalités...</li></ul><p>Avec Next.js, vous pouvez créer des applications web performantes et optimisées pour les moteurs de recherche sans configuration complexe.</p>",
+    "createdAt": "2023-05-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "TypeScript avec React",
+    "description": "Comment utiliser TypeScript efficacement dans vos projets React",
+    "image": "/placeholder.svg?height=400&width=600",
+    "content": "<p>TypeScript est un sur-ensemble de JavaScript qui ajoute des types statiques et d'autres fonctionnalités pour améliorer la qualité du code et l'expérience de développement.</p><p>Lorsqu'il est utilisé avec React, TypeScript offre plusieurs avantages:</p><ul><li>Détection des erreurs à la compilation plutôt qu'à l'exécution</li><li>Meilleure documentation du code grâce aux types</li><li>Autocomplétion et suggestions améliorées dans l'IDE</li><li>Refactoring plus sûr</li></ul><p>Pour utiliser TypeScript avec React, vous devez définir des interfaces pour vos props et votre état, ce qui rend votre code plus prévisible et plus facile à maintenir.</p>",
+    "createdAt": "2023-06-20T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Optimisation des performances avec Next.js",
+    "description": "Techniques avancées pour optimiser votre application Next.js",
+    "image": "/placeholder.svg?height=400&width=600",
+    "content": "<p>Next.js offre de nombreuses fonctionnalités intégrées pour optimiser les performances de votre application web.</p><p>Voici quelques techniques d'optimisation essentielles:</p><h3>1. Utilisation de l'ISR (Incremental Static Regeneration)</h3><p>L'ISR permet de mettre à jour des pages statiques après leur déploiement sans avoir à reconstruire l'ensemble du site.</p><h3>2. Optimisation des images</h3><p>Le composant Image de Next.js optimise automatiquement les images, réduit leur taille et les charge de manière différée.</p><h3>3. Préchargement des liens</h3><p>Next.js précharge les pages liées dans la fenêtre d'affichage, ce qui accélère la navigation.</p><h3>4. Division du code</h3><p>Next.js divise automatiquement le code par route, ce qui réduit la taille du bundle initial.</p>",
+    "createdAt": "2023-07-10T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Déploiement d'applications Next.js",
+    "description": "Guide complet pour déployer votre application Next.js en production",
+    "image": "/placeholder.svg?height=400&width=600",
+    "content": "<p>Le déploiement d'une application Next.js peut être effectué sur diverses plateformes, chacune avec ses propres avantages.</p><h3>Vercel (recommandé)</h3><p>Vercel, la société derrière Next.js, offre la meilleure expérience de déploiement:</p><ul><li>Déploiements automatiques à partir de Git</li><li>Prévisualisations pour chaque pull request</li><li>Optimisations spécifiques à Next.js</li><li>CDN global</li></ul><h3>Autres options</h3><p>Vous pouvez également déployer sur:</p><ul><li>Netlify</li><li>AWS Amplify</li><li>Docker avec un serveur Node.js</li><li>Serveurs traditionnels via l'exportation statique</li></ul><p>Choisissez la plateforme qui correspond le mieux à vos besoins et à votre budget.</p>",
+    "createdAt": "2023-08-05T16:45:00Z"
+  }
+]
